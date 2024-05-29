@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Space Race with Data Science",
+    "desc": "Applied Data Science Capstone - SpaceX.",
+    "image": "Space_Race",
+    "category": "Capstone",
+    "links": {
+      "view": "https://coursera-assessments.s3.amazonaws.com/assessments/1711441685185/3883d448-6a09-410f-9bd7-6cc1aac6862a/ds-capstone-project_ppt.pdf",
+      "code": "https://github.com/ROHITHKM92/Coursera/tree/da4ba6838a32b65987649921fe26c11b729a562b/Applied_Data_Science_Capstone"
+    }
+  },
+
+  {
+    "name": "BMI Tracker: Shiny App",
+    "desc": "This is a BMI calculator app developed using Shiny. It calculates the BMI based on the inputs of height (in centimeters) and mass (in kilograms).",
+    "image": "BMIAPP",
+    "category": "Capstone",
+    "links": {
+      "view": "https://rohithmohan92.shinyapps.io/BMI_APP/",
+      "code": "https://github.com/ROHITHKM92/BMIAPP"
+    }
+  },
+
+  {
+    "name": "Simulating Exponential Distributions in R",
+    "desc": "Visualizing Central Limit Theorem: Simulating Exponential Distributions in R.",
+    "image": "CLT1",
+    "category": "stat",
+    "links": {
+      "view": "https://rpubs.com/ROHITHMOHAN92/Statistical_Inference_part_1",
+      "code": "https://rpubs.com/ROHITHMOHAN92/Statistical_Inference_part_1"
+    }
+  },
+
+  {
+    "name": "ToothGrowth Data Analysis",
+    "desc": "Statistical Inference Project - ToothGrowth Data Analysis.",
+    "image": "TGDA",
+    "category": "stat",
+    "links": {
+      "view": "https://rpubs.com/ROHITHMOHAN92/Statistical_Infe_part_2",
+      "code": "https://rpubs.com/ROHITHMOHAN92/Statistical_Infe_part_2"
+    }
+  },
+
+  {
+    "name": "Motor Trend Analysis",
+    "desc": "This report analyzes the relationship between transmission type (automatic or manual) and miles per gallon (MPG) using the Motor Trend Car dataset.",
+    "image": "MTA",
+    "category": "stat",
+    "links": {
+      "view": "https://rpubs.com/ROHITHMOHAN92/reg_mpg",
+      "code": "https://rpubs.com/ROHITHMOHAN92/reg_mpg"
+    }
+  },
+
+  {
+    "name": "Prediction Assignment",
+    "desc": "This project aims to leverage data gathered from accelerometers placed on the belt, forearm, arm, and dumbbell of six participants. These individuals were tasked with executing barbell lifts both correctly and incorrectly in five distinct manners.",
+    "image": "PA",
+    "category": "stat",
+    "links": {
+      "view": "https://rpubs.com/ROHITHMOHAN92/PAW_PML",
+      "code": "https://rpubs.com/ROHITHMOHAN92/PAW_PML"
+    }
+  },
+
+  {
+    "name": "Leaflet Map - Developing Data Products",
+    "desc": "This project aims to creating an interactive map using the leaflet package in R to display the capitals of Indian states and union territories.",
+    "image": "LM",
+    "category": "stat",
+    "links": {
+      "view": "https://rpubs.com/ROHITHMOHAN92/DDP_LM",
+      "code": "https://rpubs.com/ROHITHMOHAN92/DDP_LM"
+    }
+  },
+
+  {
+    "name": "R Markdown Presentation & Plotly",
+    "desc": "Data visualization is a crucial aspect of data analysis. Plotly is a powerful library in R for creating interactive and modern plots.",
+    "image": "PP",
+    "category": "stat",
+    "links": {
+      "view": "https://rpubs.com/ROHITHMOHAN92/DDP_PLOTLY",
+      "code": "https://rpubs.com/ROHITHMOHAN92/DDP_PLOTLY"
+    }
+  },
+  
+  {
+    "name": "Global Super Store: Sales Analysis",
+    "desc": "Upon discovering this online dataset, I was captivated by its richness, providing an excellent opportunity for honing my data cleaning, analysis, and visualization skills..",
+    "image": "pbi1",
+    "category": "pbi",
+    "links": {
+      "view": "https://github.com/ROHITHKM92/Power-BI-PROJECT-1",
+      "code": "https://github.com/ROHITHKM92/Power-BI-PROJECT-1/blob/main/First%20powerbi%20dashboard.pbix"
+    }
+  },
+
+  {
+    "name": "AMAZON SALES ANALYSIS REPORT",
+    "desc": "This dashboard includes, overview of sales, profit, and quantity metrics, and various filters such as market and category, along with visual representations",
+    "image": "pbidemo",
+    "category": "pbi",
+    "links": {
+      "view": "https://github.com/ROHITHKM92/Power-BI-PROJECT-Demo",
+      "code": "https://github.com/ROHITHKM92/Power-BI-PROJECT-Demo/blob/main/DB_amazon.pbix"
+    }
+  },
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  
+  {
+    "name": "Links Hub",
+    "desc": "Consolidate all your important profile links in one place. A personalized and responsive alternative to Link Tree.",
+    "image": "linkhub",
+    "category": "webpage",
+    "links": {
+      "view": "https://rohithkm92.github.io/Links-Hub/",
+      "code": "https://github.com/ROHITHKM92/Links-Hub"
+    }
+  }
+  
+]
