@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Power BI",
+        "icon": "./assets/images/skills/pbi.png"
+    }, 
+    {
+        "name": "Tableau",
+        "icon": "./assets/images/skills/tableau.png"
+    }, 
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "R",
+        "icon": "./assets/images/skills/R.png"
+    },
+    {
+        "name": "RStudio",
+        "icon": "./assets/images/skills/RStudio.png"
+    },   
+
+    
+    {
+        "name": "R Shiny",
+        "icon": "./assets/images/skills/shiny.png"
+    }, 
+    
+    {
+        "name": " Tidyverse",
+        "icon": "./assets/images/skills/Tidyverse.png"
+    },   
+
+    {
+        "name": "MS Excel",
+        "icon": "./assets/images/skills/excel.png"
+    },      
+    {
+        "name": "VS Code",
+        "icon": "./assets/images/skills/vsc.png"
+    },   
+    {
+        "name": "SPSS",
+        "icon": "./assets/images/skills/spss.png"
+    },  
+    {
+        "name": "STATA",
+        "icon": "./assets/images/skills/stata.png"
+    },  
+
+
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "Numpy",
+        "icon": "./assets/images/skills/np.png"
+    },  
+   
+    {
+        "name": "Pandas",
+        "icon": "./assets/images/skills/Pandas.png"
+    },  
+    
+    {
+        "name": "Matplotlib",
+        "icon": "./assets/images/skills/Matplotlib.png"
+    },  
+
+    {
+        "name": "Seaborn",
+        "icon": "./assets/images/skills/Seaborn.png"
+    },  
+ 
+
+    {
+        "name": "QGIS",
+        "icon": "./assets/images/skills/qgis-100.png"
+    },
+
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+
+    {
+        "name": "Regression",
+        "icon": "./assets/images/skills/Regression.png"
+    },
+
+    {
+        "name": "Probability",
+        "icon": "./assets/images/skills/Probability.png"
+    },
+
+
+
+    {
+        "name": "Survival",
+        "icon": "./assets/images/skills/Survival_Analysis.png"
+    } 
+  
+]
