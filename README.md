@@ -14,7 +14,7 @@ Welcome to my portfolio website, crafted with the latest web technologies includ
   <a href="https://github.com/ROHITHKM92/ROHITHKM92.github.io/search?l=css">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>&nbsp;
-  <a href="https://github.com/ROHITHKM92/ROHITHKM92.github.io/Portfolio-Website/search?l=javascript">
+  <a href="https://github.com/ROHITHKM92/ROHITHKM92.github.io/search?l=javascript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   </a>&nbsp;
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
